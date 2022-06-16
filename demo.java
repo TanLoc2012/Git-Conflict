@@ -1,5 +1,2 @@
-
-// branch B
-
 // branch A
 
